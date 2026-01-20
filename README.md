@@ -60,4 +60,4 @@ website-traffic-analysis-sql/
 ├── screenshots/
 │   └── sample_output.png   (optional)
 │
-└── README.md
+└── README.md.
