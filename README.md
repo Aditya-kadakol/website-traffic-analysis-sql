@@ -47,17 +47,13 @@ The dataset contains website analytics data including:
 - Some sources deliver better revenue per user despite lower traffic
 
 # Project Structure
-website-traffic-analysis-sql/
-│
-├── dataset/
-│   └── Web_Analytic_Dataset.csv
+
 │
 ├── sql/
 │   ├── 01_create_tables.sql
 │   ├── 02_data_cleaning.sql
 │   ├── 03_analysis_queries.sql
 │
-├── screenshots/
-│   └── sample_output.png   (optional)
-│
 └── README.md.
+|
+├── website-traffic-analysis-sql/
